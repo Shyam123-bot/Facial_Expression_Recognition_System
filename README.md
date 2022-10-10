@@ -1,2 +1,2 @@
 # Facial_Expression_Recognition_System
-This repository contain facial expression using cnn, you can also use webcam as realtime facial expression detection.
+This repository contain Facial Expression Recognition System using EfficientNetB2 CNN Integrated with OpenCV and dlib for realtime facial expression detection using webcam.
